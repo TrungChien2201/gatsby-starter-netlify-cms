@@ -3,7 +3,7 @@ templateKey: blog-post
 title: How Professional Development Programs Work
 date: 2020-09-29T06:56:55.175Z
 description: BY LANCE LOOPER
-featuredpost: true
+featuredpost: false
 featuredimage: /img/blog-index.jpg
 tags:
   - "#dream"
